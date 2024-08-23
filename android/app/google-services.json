@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481687674124",
+    "project_id": "lead-management-ea413",
+    "storage_bucket": "lead-management-ea413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481687674124:android:95358879ed6c84b21cbd29",
+        "android_client_info": {
+          "package_name": "com.sanpra.lead_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHIWfwBFEoyveWSP6nd5cPTRvJOxVSGMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
